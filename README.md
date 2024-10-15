@@ -28,6 +28,10 @@ It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific feature
 
     go get github.com/beego/beego/v2@latest
 
+or (in Go 1.18+)
+
+    go install github.com/beego/beego/v2@latest
+
 #### Create file `hello.go`
 
 ```go
